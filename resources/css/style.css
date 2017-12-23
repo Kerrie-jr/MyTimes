@@ -1,0 +1,21 @@
+body {
+  color: black;
+  font-size: 13pt;
+  font-family: georgia;
+}
+
+.header {
+  position: fixed;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  font-family: verdana;
+  font-size: 16px;
+  border: 2px, solid, black;
+}
+
+span {
+  color: limegreen;
+  font-weight: bold;
+  margin-left: 30pt;
+}
